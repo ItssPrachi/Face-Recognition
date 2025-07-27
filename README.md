@@ -1,4 +1,3 @@
-"C:\Users\Prachi Verma\OneDrive\Pictures\Screen Recording 2024-07-12 135557 - Face Detection - Copy.mp4"
 # Face Recognition System 🧠🎯
 
 A real-time face recognition system developed using Python, OpenCV, and MySQL. This project was completed as part of my summer internship at **HAL – Transport Aircraft Division**, aimed at enhancing surveillance by identifying authorized personnel through facial recognition.
